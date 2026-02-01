@@ -1,6 +1,6 @@
-# Laboratoria z Inteligencji Obliczeniowej
+# Laboratoria z Sztucznej Inteligencji
 
-Ten projekt zawiera implementacje różnych algorytmów i technik z zakresu inteligencji obliczeniowej, zrealizowanych w ramach serii siedmiu laboratoriów. Każde laboratorium koncentruje się na innym zagadnieniu, od prostych modeli regresji po zaawansowane techniki uczenia maszynowego.
+Ten projekt zawiera implementacje różnych algorytmów i technik z zakresu sztucznej inteligencji, zrealizowanych w ramach serii siedmiu laboratoriów. Każde laboratorium koncentruje się na innym zagadnieniu, od prostych modeli regresji po zaawansowane techniki uczenia maszynowego.
 
 ## Laboratoria
 
